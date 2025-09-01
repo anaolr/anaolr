@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Ana Beatriz Oliveira  
 
-🌱 **Estudante de Nutrição | Desenvolvedora em formação (Java & Full Stack)**  
+🌱 **Estudante de Nutrição | Desenvolvedora em formação (Full Stack)**  
 
 Sou apaixonada por unir **ciência, saúde e tecnologia**. Atualmente, curso **Nutrição** na UNIRIO e **Desenvolvimento de Sistemas** no SENAI, explorando como a programação pode se conectar ao universo da saúde e gerar impacto positivo na vida das pessoas.  
 
-💻 **Na tecnologia:** estudo **Java** e fundamentos de **desenvolvimento full stack**.  
+💻 **Na tecnologia:** estou construindo minha base em **Java**, explorando Front-End e Back-End com o objetivo de evoluir para o desenvolvimento full stack, unindo lógica sólida e aplicação prática em projetos reais.  
 🥗 **Na nutrição:** tenho interesse em **nutrição esportiva** e **alimentação funcional**, com foco em performance, bem-estar e qualidade de vida.  
 
 🚀 Meu objetivo é **criar soluções digitais para saúde e nutrição**, como aplicativos, sistemas de acompanhamento e ferramentas que transformem informação em prática.  
