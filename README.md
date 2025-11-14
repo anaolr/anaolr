@@ -71,9 +71,10 @@ Mas também pronta para atuar no back quando necessário — completa, versátil
   <a href="https://www.linkedin.com/in/-anabeatrizoliveira-">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:ana.freitas0046@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+ <a href="mailto:ana.freitas0046@gmail.com">
+  <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
 ---
