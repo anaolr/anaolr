@@ -28,13 +28,21 @@ Tenho formação técnica pelo SENAI e experiência profissional como Aprendiz d
 
 ---
 
+
+##  Projetos em destaque
+
+| Projeto | Stack | Descrição |
+|---------|-------|-----------|
+| Sistema de Reservas Petrobras | HTML, CSS, JS | Sistema completo de reservas de auditórios, com login, painel administrativo e aprovação de reservas. |
+| Sistema de Metas Corporativas | Java  | Sistema desktop para RH, supervisores e colaboradores gerenciarem metas e prêmios. |
+| Clone do Spotify | React, Node, MongoDB | Interface moderna inspirada no Spotify, com backend em Node e banco de dados MongoDB. |
+
+---
+
+
 ##  Onde me encontrar  
 
 <div align="center"> <a href="mailto:ana.freitas0046@gmail.com"> <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/-anabeatrizoliveira-"> <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
 
----
 
-<p align="center">
-  ✨ <em>"Unindo saúde, criatividade e tecnologia para transformar ideias em realidade."</em> ✨
-</p>
 
