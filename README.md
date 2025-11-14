@@ -1,41 +1,84 @@
-# 👩🏻‍💻 Ana Beatriz Oliveira  
 
-🌱 **Estudante de Nutrição | Desenvolvedora em formação (Full Stack)**  
+<h1 align="center">Ana Beatriz Oliveira</h1>
 
-Sou apaixonada por unir **ciência, saúde e tecnologia**. Atualmente, curso **Nutrição** na UNIRIO e **Desenvolvimento de Sistemas** no SENAI, explorando como a programação pode se conectar ao universo da saúde e gerar impacto positivo na vida das pessoas.  
+<p align="center">
+  <strong>Aprendiz na Petrobras • Técnica em Desenvolvimento de Sistemas (SENAI) • Futur Dev Full Stack com paixão por Front-End</strong>
+</p>
 
-💻 **Na tecnologia:** estou construindo minha base em **Java**, explorando Front-End e Back-End com o objetivo de evoluir para o desenvolvimento full stack, unindo lógica sólida e aplicação prática em projetos reais.  
-🥗 **Na nutrição:** tenho interesse em **nutrição esportiva** e **alimentação funcional**, com foco em performance, bem-estar e qualidade de vida.  
-
-🚀 Meu objetivo é **criar soluções digitais para saúde e nutrição**, como aplicativos, sistemas de acompanhamento e ferramentas que transformem informação em prática.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23A020F0&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+Full+Stack+em+formação;">
+</p>
 
 ---
 
-## 🔧 Tecnologias & Ferramentas em aprendizado  
+## ✨ Quem sou eu?
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+Sou a Ana Beatriz, estudante de **Nutrição** na UNIRIO e **Desenvolvimento de Sistemas** pelo **SENAI**, atualmente trabalhando como **Aprendiz na Petrobras**.  
+
+Me encontrei de verdade na área de tecnologia — especialmente no **Front-End**, no design, na criação de interfaces e em tudo que envolve transformar ideias em experiências visuais.  
+Mas também tenho uma base sólida em back-end, e sigo evoluindo como **desenvolvedora full stack**.
+
+Adoro unir **saúde + tecnologia**, criando soluções digitais que facilitam a vida, melhoram resultados e transformam informação em prática real.
+
+---
+
+## 🚀 O que eu busco?
+
+Criar, aprender, evoluir.  
+Preferência para **projetos front-end**, UI/UX, animações, interações e telas que brilham os olhos ✨  
+Mas também pronta para atuar no back quando necessário — completa, versátil e curiosa.
+
+---
+
+## 🔧 Tecnologias que estou aprendendo e usando
+
+<div align="center">
+
+### 🌐 Front-End  
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">  
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white">  
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">  
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+### ⚙️ Back-End  
+<img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white">  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">  
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white">  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
+
+### 🔧 Outros  
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">  
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
 
 ---
 
 ## 📈 Interesses  
-- 💡 Saúde Digital & Inovação  
-- 🏋️‍♀️ Nutrição Esportiva  
-- 🖥️ Desenvolvimento Full Stack  
-- 📱 Aplicativos de bem-estar e performance  
+
+💡 **Saúde digital**, inovação e tecnologia  
+🎨 **Front-End, UI/UX, design e interações animadas**  
+🖥️ Desenvolvimento **Full Stack**  
+📱 Apps e sistemas focados em **bem-estar e performance**  
+🏋️‍♀️ Nutrição esportiva  
 
 ---
 
 ## 📫 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-anabeatrizoliveira-)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.freitas0046@gmail.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/-anabeatrizoliveira-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ana.freitas0046@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-✨ *“Construindo a ponte entre saúde e tecnologia, um código e um prato de cada vez.”*  
+<p align="center">
+  ✨ <em>"Unindo saúde, criatividade e tecnologia para transformar ideias em realidade."</em> ✨
+</p>
 
