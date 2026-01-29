@@ -2,7 +2,7 @@
 <h1 align="center">Ana Beatriz Freitas</h1>
 
 <p align="center">
-  <strong>Aprendiz na Petrobras • Técnica em Desenvolvimento de Sistemas (SENAI) </strong>
+  <strong>Aprendiz na Petrobras • Técnica em Desenvolvimento de Sistemas  </strong>
 </p>
 
 <p align="center">
