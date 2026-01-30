@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23A020F0&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+Full+Stack+em+formação;">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23A020F0&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+Full+Stack;">
 </p>
 
 ---
