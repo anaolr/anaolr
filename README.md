@@ -56,7 +56,7 @@ https://github.com/anaolr/gerenciador-de-tarefas
   <a href="mailto:ana.freitas0046@gmail.com">
     <img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/-anabeatrizoliveira-">
+  <a href="https://www.linkedin.com/in/anabeatriz-freitas">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
