@@ -1,57 +1,47 @@
 <h1 align="center">Ana Beatriz Freitas</h1>
 
 <p align="center">
-  <strong>Aprendiz de TI na Petrobras • Desenvolvedora Web em formação</strong>
+  <strong>Estudante em transição para Tecnologia • Desenvolvimento Web</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23A020F0&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedora+Web">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23A020F0&size=24&center=true&vCenter=true&width=700&lines=Java;JavaScript;HTML+%7C+CSS;Desenvolvimento+Web" />
 </p>
 
 ---
 
 ## Quem sou eu?
 
-Sou a Ana, desenvolvedora em formação com foco em **Desenvolvimento Web (Front-End e Back-End)**.
+Sou estudante em transição para a área de tecnologia e atualmente finalizo o curso Técnico em Desenvolvimento de Sistemas pelo SENAI, realizado em parceria com a Petrobras.
 
-Tenho formação técnica pelo **SENAI** e atuo como **Aprendiz de TI na Petrobras**, onde desenvolvo aplicações web, trabalho com **Java, Spring Boot, HTML, CSS, JavaScript e MySQL**, além de versionamento com Git/GitHub em ambiente corporativo.
+Ao longo da formação, desenvolvi conhecimentos em **Java, HTML, CSS, JavaScript, MySQL, Git/GitHub e APIs**, além de projetos próprios focados em desenvolvimento web.
 
-Tenho experiência na construção de **APIs REST**, integração com banco de dados e desenvolvimento de interfaces responsivas e organizadas.
+Tenho especial interesse por lógica, resolução de problemas e construção de aplicações. Atualmente, também aprofundo meus estudos em **Node.js, Spring Boot e React**.
 
-Atualmente, estou aprofundando meus conhecimentos em **Java e arquitetura de aplicações web**, consolidando minha base para atuação fullstack.
-
-🎯 Objetivo: conquistar um **estágio em desenvolvimento web (Front-End ou Fullstack)**.
+🎯 Objetivo: conquistar minha primeira oportunidade de estágio em desenvolvimento web ou desenvolvimento de software.
 
 ---
 
 ## Tecnologias & Conceitos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,nodejs,react" />
 </p>
 
-- Java & Spring Boot (API REST)
-- JavaScript (ES6+) — lógica, organização e modularização
-- HTML5 semântico
-- CSS3 responsivo
-- Manipulação de DOM
-- Integração com MySQL
-- Git & GitHub
+- Java e Programação Orientada a Objetos
+- JavaScript (ES6+) e manipulação do DOM
+- HTML5 e CSS3 responsivo
+- Integração com MySQL e API REST
+- Git e GitHub
+- Estudos em Node.js, Spring Boot e React
 
 ---
 
 ## Projetos em destaque
 
-### Sistema de Cadastro de Usuários — Fullstack
-API REST desenvolvida com **Java e Spring Boot**, integrada ao **MySQL** e consumida por frontend em HTML, CSS e JavaScript.
-
-🔗 Repositório:  
-https://github.com/anaolr/sistema-usuarios
-
----
-
 ### Gerenciador de Tarefas — JavaScript Puro
-Projeto desenvolvido com foco em **organização de código**, **separação de responsabilidades** e **controle de estado**, sem uso de frameworks.
+
+Aplicação desenvolvida com HTML, CSS e JavaScript para gerenciamento de tarefas, utilizando LocalStorage e organização do código em módulos.
 
 🔗 Deploy:  
 https://anaolr.github.io/gerenciador-de-tarefas/
@@ -61,7 +51,25 @@ https://github.com/anaolr/gerenciador-de-tarefas
 
 ---
 
-## Onde me encontrar  
+### Sistema de Cadastro de Usuários — Java + Spring Boot
+
+Projeto full stack desenvolvido para praticar API REST, integração com MySQL e consumo de dados em frontend com HTML, CSS e JavaScript.
+
+🔗 Repositório:  
+https://github.com/anaolr/sistema-usuarios
+
+---
+
+### Sistema de Metas Corporativas — Java + MySQL
+
+Projeto desenvolvido durante o curso técnico para praticar Java, JDBC, banco de dados relacional e organização em camadas.
+
+🔗 Repositório:  
+https://github.com/anaolr/sistema-de-metas
+
+---
+
+## Onde me encontrar
 
 <div align="center">
   <a href="mailto:ana.freitas0046@gmail.com">
