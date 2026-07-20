@@ -44,33 +44,50 @@ Tenho especial interesse por lógica, resolução de problemas e construção de
 
 ## Projetos em destaque
 
-### Gerenciador de Tarefas — JavaScript Puro
+### 🛡️ SIGOS — Sistema Integrado de Gestão de Ocorrências - Node 
 
-Aplicação desenvolvida com HTML, CSS e JavaScript para gerenciamento de tarefas, utilizando LocalStorage e organização do código em módulos.
+Sistema web **full stack** desenvolvido como Projeto Integrador, permitindo o gerenciamento de ocorrências e sugestões por meio de diferentes níveis de acesso (Funcionário, Gestor e Administrador).
 
-🔗 Deploy:  
-https://anaolr.github.io/gerenciador-de-tarefas/
+**Principais recursos:** 
+- Autenticação com JWT
+-  Controle de acesso por perfis
+-   Dashboard com indicadores
+-   Recuperação de senha
+-   Banco de dados MySQL 
+-   Deploy utilizando Vercel e Railway
 
-🔗 Repositório:  
-https://github.com/anaolr/gerenciador-de-tarefas
+🔗 Deploy: https://sigos-wheat.vercel.app 
+🔗 Repositório: https://github.com/anaolr/Sigos 
 
 ---
 
-### Sistema de Cadastro de Usuários — Java + Spring Boot
+### Gerenciador de Tarefas - Javascript
 
-Projeto full stack desenvolvido para praticar API REST, integração com MySQL e consumo de dados em frontend com HTML, CSS e JavaScript.
+Aplicação desenvolvida com **JavaScript puro**, focada na organização do código utilizando módulos ES6, manipulação do DOM, LocalStorage e boas práticas de desenvolvimento front-end. 
 
-🔗 Repositório:  
-https://github.com/anaolr/sistema-usuarios
+**Principais recursos:** 
+- CRUD completo de tarefas
+- Filtros e ordenação 
+- Controle de prioridades 
+- Persistência com LocalStorage 
+- Estrutura modular utilizando ES6 Modules
+
+🔗 Deploy: https://anaolr.github.io/gerenciador-de-tarefas/
+🔗 Repositório: https://github.com/anaolr/gerenciador-de-tarefas
 
 ---
 
 ### Sistema de Metas Corporativas — Java + MySQL
 
-Projeto desenvolvido durante o curso técnico para praticar Java, JDBC, banco de dados relacional e organização em camadas.
+Projeto desenvolvido em **Java** para gerenciamento de metas corporativas, aplicando conceitos de Programação Orientada a Objetos, JDBC, banco de dados MySQL e organização em camadas. 
 
-🔗 Repositório:  
-https://github.com/anaolr/sistema-de-metas
+**Principais recursos:** 
+- Cadastro de metas 
+- Integração com MySQL 
+- Operações CRUD - Arquitetura em camadas 
+- Aplicação dos princípios de POO
+
+🔗 **Repositório:** https://github.com/anaolr/sistema-de-metas
 
 ---
 
