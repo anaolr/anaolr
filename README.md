@@ -1,7 +1,7 @@
 <h1 align="center">Ana Beatriz Freitas</h1>
 
 <p align="center">
-  <strong>Estudante em transição para Tecnologia • Desenvolvimento Web</strong>
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas • Técnica em Desenvolvimento de Sistemas</strong>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## Quem sou eu?
 
-Sou estudante em transição para a área de tecnologia e atualmente finalizo o curso Técnico em Desenvolvimento de Sistemas pelo SENAI, realizado em parceria com a Petrobras.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNINTER e Técnica em Desenvolvimento de Sistemas pelo SENAI, formada por meio do Programa de Aprendizagem em parceria com a Petrobras.
 
 Ao longo da formação, desenvolvi conhecimentos em **Java, HTML, CSS, JavaScript, MySQL, Git/GitHub e APIs**, além de projetos próprios focados em desenvolvimento web.
 
@@ -33,9 +33,14 @@ Tenho especial interesse por lógica, resolução de problemas e construção de
 - HTML5 e CSS3 responsivo
 - Integração com MySQL e API REST
 - Git e GitHub
-- Estudos em Node.js, Spring Boot e React
 
 ---
+## Atualmente estudando
+
+- Spring Boot
+- React
+- Node.js
+- Boas práticas de desenvolvimento
 
 ## Projetos em destaque
 
